@@ -1,5 +1,7 @@
 # SSL Vehicle Tracking
 
+<img align="right" src="documentation/logo.png" width="128" alt="Logo">
+
 Comming soon!
 
 ## Build
