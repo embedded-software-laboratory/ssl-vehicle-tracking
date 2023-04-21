@@ -1,0 +1,15 @@
+material ssl_vehicle_tracking_visualization/Trajectory
+{
+        technique
+        {
+                pass
+                {
+                        scene_blend alpha_blend
+                        depth_write off
+                        diffuse vertexcolour
+                        // specular vertexcolour
+                        ambient vertexcolour
+                        lighting on
+                }
+        }
+}

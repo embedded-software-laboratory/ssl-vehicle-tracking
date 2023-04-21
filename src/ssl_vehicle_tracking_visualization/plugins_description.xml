@@ -1,0 +1,20 @@
+<library path="ssl_vehicle_tracking_visualization">
+    <class name="ssl_vehicle_tracking_visualization/ObjectDisplay" type="ssl_vehicle_tracking_visualization::ObjectDisplay" base_class_type="rviz_common::Display">
+        <description>
+            Will display a ssl object in RViz.
+        </description>
+        <message_type>ssl_vehicle_tracking_msgs/msg/ObjectArray</message_type>
+    </class>
+    <class name="ssl_vehicle_tracking_visualization/WheelDisplay" type="ssl_vehicle_tracking_visualization::WheelDisplay" base_class_type="rviz_common::Display">
+        <description>
+            Will display a ssl wheel detection in RViz.
+        </description>
+        <message_type>ssl_vehicle_tracking_msgs/msg/WheelArray</message_type>
+    </class>
+    <class name="ssl_vehicle_tracking_visualization/TrackDisplay" type="ssl_vehicle_tracking_visualization::TrackDisplay" base_class_type="rviz_common::Display">
+        <description>
+            Will display a ssl wheel track in RViz.
+        </description>
+        <message_type>ssl_vehicle_tracking_msgs/msg/TrackArray</message_type>
+    </class>
+</library>
