@@ -73,4 +73,4 @@ We acknowledge the financial support for this project by the Collaborative Resea
 ## References
 <a name="references"></a>
 
-* [1] S. Schäfer, H. Steidl, S. Kowalewski, B. Alrifaee. "Investigating a Pressure Sensitive Surface Layer for Vehicle Localization". In 34rd IEEE Intelligent Vehicles Symposium (IV) 2023, accepted.
+* [1] S. Schäfer, H. Steidl, S. Kowalewski and B. Alrifaee, "Investigating a Pressure Sensitive Surface Layer for Vehicle Localization," 2023 IEEE Intelligent Vehicles Symposium (IV), Anchorage, AK, USA, 2023, pp. 1-6, doi: 10.1109/IV55152.2023.10186582.
